@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/aem-code-challenge"/>
+    <filter root="/content/aem-code-challenge"/>
+    <filter root="/content/dam/aem-code-challenge"/>
+</workspaceFilter>
